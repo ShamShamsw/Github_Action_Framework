@@ -2,6 +2,10 @@
 
 This repository demonstrates a basic workflow using GitHub Actions for Continuous Integration (CI) with Python.
 
+**This works as of today 8/10/25.**
+
+> **Note:** With the help of AI tools, a project like this can typically be set up in about 15–25 minutes.
+
 ## Structure
 
 - `src/` — Source code for the application.
